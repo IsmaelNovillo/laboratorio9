@@ -6,8 +6,7 @@ Levantamiento de de backend, donde se muestra diferente información en diferent
 
 
 ## Authors
-
-- [@Ruizerick26](https://www.github.com/Ruizerick26)
+#IsmaelNovillo
 
 
 ## Capturas
